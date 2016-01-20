@@ -7,14 +7,14 @@ if (arldgzn_place == 1) {
   url = "http://jualrpp2013.com";
   alt = "jual rpp kurikulum 2013";
   title = "JUDUL IKLAN 1";
-  banner = "https://drive.google.com/open?id=0B8qd2v8s1RHRdXZ0SE1LS1V6NE0";
+  banner = "http://3.bp.blogspot.com/-u-taqrVDlVY/VYuDYyC4rOI/AAAAAAAAAIY/D5ZjFlBoEAA/s1600/PP%2B2015%2B2016%2BBANNER.jpg";
   width = "100%";
 }
 if (arldgzn_place == 2) {
-  url = "http://yahoo.com";
+  url = "http://jualrpp2013.com";
   alt = "jual rpp 2013";
   title = "JUDUL IKLAN 2";
-  banner = "https://drive.google.com/open?id=0B8qd2v8s1RHRLU1ydTNCSzFnVTg";
+  banner = "http://3.bp.blogspot.com/-AHxdYbYoFio/Vp-lVZKffaI/AAAAAAAAAic/LPOqSdMJj_M/s1600/iklandiva2.jpg";
   width = "100%";
 }
 document.write('<a href=\"' + url + '\" target=\"_blank\" rel=\"nofollow\">');
